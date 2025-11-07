@@ -83,6 +83,6 @@ Para outras finalidades ou solicitações de uso que não se enquadrem nessas co
 
 ## ✉️ Contato  
 
-- **Emerson Falcão Albertini**  
+- Emerson Falcão Albertini
 - 📧 [emersonalbertini01@gmail.com](mailto:emersonalbertini01@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334)
+- [https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334](url)
