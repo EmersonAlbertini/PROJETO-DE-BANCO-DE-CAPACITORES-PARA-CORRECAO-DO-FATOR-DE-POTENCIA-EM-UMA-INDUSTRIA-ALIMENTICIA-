@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-	<Name>SimulaÁ„o_01</Name>
+	<Name>Simula√ß√£o_01</Name>
 	<Properties>
 		<SimulationProperties>
 			<General>
@@ -62,7 +62,7 @@
 					<Angle>270.0000000000000</Angle>
 				</CADProperties>
 				<ElectricalProperties>
-					<Name>GeraÁ„o</Name>
+					<Name>Gera√ß√£o</Name>
 					<NominalVoltage UnitID="2">13.8000000000000</NominalVoltage>
 					<IsVoltageControlled>0</IsVoltageControlled>
 					<ControlledVoltage Choice="0">1.0000000000000</ControlledVoltage>
@@ -564,7 +564,7 @@
 				</CADProperties>
 				<ElectricalProperties>
 					<IsOnline>1</IsOnline>
-					<Name>GERA«√O</Name>
+					<Name>GERA√á√ÉO</Name>
 					<NominalPower UnitID="10">100.0000000000000</NominalPower>
 					<NominalVoltage UnitID="2">13.8000000000000</NominalVoltage>
 					<ActivePower UnitID="7">0.8676512120159</ActivePower>
