@@ -75,7 +75,7 @@ O projeto aborda todas as etapas de dimensionamento, simulação e especificaç�
 
 ## ⚠️ Restrições de Uso  
 
-Este projeto destina-se unicamente para fins didático* e não deve ser utilizado em aplicações reais sem validação técnica profissional.  
+Este projeto destina-se unicamente para fins didáticos e não deve ser utilizado em aplicações reais sem validação técnica profissional.  
 Qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor.  
 Para outras finalidades ou solicitações de uso que não se enquadrem nessas condições, por favor, entre em contato com o autor.
 
@@ -83,6 +83,6 @@ Para outras finalidades ou solicitações de uso que não se enquadrem nessas co
 
 ## ✉️ Contato  
 
-- Emerson Falcão Albertini
-- [emersonalbertini01@gmail.com](mailto:emersonalbertini01@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334)
+- **Autor:** Emerson Falcão Albertini: [emersonalbertini01@gmail.com](mailto:emersonalbertini01@gmail.com), [LinkedIn](https://www.linkedin.com/in/emerson-falcão-albertini-8aa17a334)
+- **Orientador:** Prof. Dr. Daniel Augusto Pagi Ferreira: [danielferreira@fho.edu.br](mailto:danielferreira@fho.edu.br)
+
