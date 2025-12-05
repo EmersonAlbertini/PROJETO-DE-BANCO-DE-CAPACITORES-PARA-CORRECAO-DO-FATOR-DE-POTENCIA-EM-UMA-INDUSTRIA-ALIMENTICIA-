@@ -83,11 +83,11 @@ Para outras finalidades ou solicitações de uso que não se enquadrem nessas co
 
 ## ✉️ Contato  
 
-**Autor:** Emerson Falcão Albertini  
-**Email:** [emersonalbertini01@gmail.com](mailto:emersonalbertini01@gmail.com)
-**Linkedin:** [www.linkedin.com/in/emerson-falcao-albertini-8aa17a334](https://www.linkedin.com/in/emerson-falcao-albertini-8aa17a334)
+**Autor:** Emerson Falcão Albertini;
+**Email:** [emersonalbertini01@gmail.com](mailto:emersonalbertini01@gmail.com);
+**Linkedin:** [www.linkedin.com/in/emerson-falcao-albertini-8aa17a334](https://www.linkedin.com/in/emerson-falcao-albertini-8aa17a334);
 
-**Orientador:** Prof. Dr. Daniel Augusto Pagi Ferreira 
+**Orientador:** Prof. Dr. Daniel Augusto Pagi Ferreira;
 **Email:** [danielferreira@fho.edu.br](mailto:danielferreira@fho.edu.br)
 
 
