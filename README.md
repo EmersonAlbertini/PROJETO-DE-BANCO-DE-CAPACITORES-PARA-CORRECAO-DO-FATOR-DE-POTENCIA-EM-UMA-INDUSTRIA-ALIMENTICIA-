@@ -58,13 +58,6 @@ O projeto aborda todas as etapas de dimensionamento, simulação e especificaç�
 
 ---
 
-## 👨‍🔬 Autor e Orientador  
-
-- **Autor:** Emerson Falcão Albertini  
-- **Orientador:** Prof. Dr. Daniel Augusto Pagi Ferreira  
-
----
-
 ## 🏫 Instituição  
 
 **Centro Universitário Hermínio Ometto – Araras/SP**  
